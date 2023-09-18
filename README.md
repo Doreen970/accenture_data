@@ -1,0 +1,1 @@
+This project deals with the data analysis of a certain social media company. The company deals with content creation. We are tasked with coming up with a full report and analysis of all their content then give the top 5 content categories. This is going to determine the decision making for the company as they want to come up with an IPO
